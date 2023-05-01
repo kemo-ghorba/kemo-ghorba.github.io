@@ -15,7 +15,7 @@ color: rgb(102, 153, 204);
 color: darkblue;
 }
 
-.img{
+.image{
     max-width: 90%;
 }
 
@@ -40,7 +40,7 @@ body{
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
     margin-bottom: 2rem;
 }
-.container img{
+.container image{
     border-radius: 0.625rem;
     margin-bottom: 1rem;
 }
